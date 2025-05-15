@@ -2,3 +2,4 @@ mtcars
 mean(mtcars$mpg)
 str(mtcars)
 hist(mtcars$mpg)
+sum(mtcars$mpg)
